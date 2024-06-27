@@ -15,6 +15,10 @@ npm install
 
 update the .env file if needed
 
+.env file example
+DATABASE = "mongodb://127.0.0.1/inddev"
+PORT = 8000
+
 Running the Server
 To start the server, run the following command:
 npm start
